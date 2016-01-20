@@ -1,0 +1,142 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Questrial";
+}
+body{
+  color:  #5B6063;
+}
+h2, h3, h4{
+  color:black;
+}
+header a{
+  text-decoration: none;
+  color: white;
+}
+
+header{
+  width: 100%;
+  background-color: #2056ac;
+  color: white;
+  padding: 3em 0 0em 0;
+}
+header h1{
+  font-size: 3em;
+}
+nav{
+ padding-top: 2em;
+}
+nav ul li{
+  display: inline-block;
+  padding: 2em 1em 2em 1em;
+  border-radius: 5% 5% 0 0;
+  color: white;
+}
+nav ul li:hover{
+  background-color: white;
+}
+nav ul li:hover a{
+  color: #2056ac;
+}
+
+.divHeader{
+  text-align: center;
+}
+header div .fa{
+  font-size: 3em;
+      padding-bottom: 0.5em;
+}
+.grandesection{
+  width: 90%;
+  margin: auto;
+}
+main img{
+  width: 100%;
+  margin: 4em 0 4em 0;
+}
+main h2{
+text-align: center;
+font-size: 2em;
+}
+main .pMain{
+  text-align: center;
+  border-bottom: 2px #eee solid;
+  padding: 3em 0 4em 0;
+}
+.pMain a{
+  color:#2056ac;
+}
+.pMain span{
+  font-weight: bolder;
+}
+.div1{
+  padding: 4em 0 4em 0;
+  border-bottom: 2px #eee solid
+}
+.div1 article{
+  max-width: 23.9em;
+  display: inline-block;
+  text-align: center;
+}
+.div1 p{
+  padding: 3em;
+}
+.div2{
+  padding: 4em 0 4em 0;
+}
+.div2 article{
+  max-width: 17.9em;
+  display: inline-block;
+  text-align: center;
+}
+.div2 p{
+      padding: 3em 1em;
+}
+main .abutton{
+  text-decoration: none;
+    background-color: #64ABD1;
+    border-radius: 3%;
+    padding: 1em;
+    color: white;
+}
+.social{
+  background-color: #E3F0F7;
+  width: 100%;
+  color:#5B6063;
+  text-align: center;
+}
+.social article{
+padding: 5em;
+  display: inline-block;
+
+      padding-bottom: 3em;
+}
+.footer{
+  background-color: #2056ac;
+  border-top: 1em solid #3162B1;
+}
+.footer p{
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+.footer .petiticone{
+  color:white;
+  font-size: 1em;
+  width: 1em;
+  height: 1em;
+  background-color:#64ABD1;
+  padding: 0.5em;
+  margin: 2em 0 3em 0;
+}
+.footer p{
+  padding-top: 3em;
+}
+.social .grandicone{
+  padding-bottom: 1em;
+  font-size: 3em;
+}
+.footer div{
+width: 100%;
+text-align: center;
+}
