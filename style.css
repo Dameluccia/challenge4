@@ -113,7 +113,7 @@ main .abutton{
   padding-top: 3em;
 }
 @media (max-width:400px){
-.social article {
+.div2 article {
 width: none; }
 }
 .footer{
@@ -140,6 +140,9 @@ width: none; }
 .social .grandicone{
   padding-bottom: 1em;
   font-size: 3em;
+}
+.lienFont a{
+    text-decoration: none;
 }
 .footer div{
 width: 100%;
